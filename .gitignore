@@ -1,0 +1,13 @@
+# Binaries, plugins, libs
+*.dll
+*.dylib
+*.exe
+*.exe~
+*.so
+
+# Testing
+*.test
+*.tmp
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
