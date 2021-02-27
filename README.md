@@ -43,14 +43,14 @@ curl localhost:8000/go
 ```
 Result:
 
-`Don't communicate by sharing memory, share memory by communicating`
+`Don't communicate by sharing memory, share memory by communicating.`
 
 ```sh
 curl localhost:8000/opt
 ```
 Result:
 
-`Don't communicate by sharing memory, share memory by communicating`
+`Don't communicate by sharing memory, share memory by communicating.`
 
 ## Reference:
 ---
